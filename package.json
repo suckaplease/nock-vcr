@@ -1,6 +1,6 @@
 {
   "name": "nock-vcr",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Automate the recording and play-back of HTTP requests with the nock framework.",
   "main": "lib/nock-vcr.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/carbonfive/nock-vcr.git"
+    "url": "git://github.com/suckaplease/nock-vcr.git"
   },
   "keywords": [
     "mock",
@@ -19,7 +19,7 @@
   "license": "BSD",
   "readmeFilename": "README.md",
   "dependencies" : {
-    "nock" : "git://github.com/rudyjahchan/nock.git"
+    "nock" : "git://github.com/pgte/nock.git"
   },
   "devDependencies" : {
     "coffee-script": "1.4.x",
